@@ -1,0 +1,13 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9AED-B539
+
+ Directory of C:\Users\bindu\Desktop\MyProject
+
+06/12/2018  10:36 AM    <DIR>          .
+06/12/2018  10:36 AM    <DIR>          ..
+06/12/2018  10:32 AM    <DIR>          .git
+06/12/2018  10:36 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  320,001,507,328 bytes free
+
+ajdsjdsjd
